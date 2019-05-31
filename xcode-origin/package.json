@@ -1,0 +1,21 @@
+{
+    "name": "xcode-origin",
+    "displayName": "Xcode Origin",
+    "description": "Xcode Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Xcode Origin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Xcode Origin-color-theme.json"
+            }
+        ]
+    }
+}
