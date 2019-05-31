@@ -43,7 +43,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#51C34F</string>
+				<string>#41B645</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,6 +194,8 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#C78024</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8A8A8A</string>
+				<string>#83C157</string>
 			</dict>
 		</dict>
 		<dict>
@@ -242,7 +244,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Library class&#x2f;type</string>
+			<string>Library class/type</string>
 			<key>scope</key>
 			<string>support.type, support.class</string>
 			<key>settings</key>
@@ -259,7 +261,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#17B6B2</string>
+				<string>#18B5B1</string>
 			</dict>
 		</dict>
 		<dict>
